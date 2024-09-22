@@ -12,5 +12,8 @@ I am a passionate and experienced Senior Software Engineer with over 9 years of 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=3m-abro&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=3m-abro&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# 📊 Roadmap Stats:
+[![roadmap.sh](https://roadmap.sh/card/tall/66ef96cde80161c4cb02d1e7?variant=dark&roadmaps=full-stack%2Cai-data-scientist%2Cdevops%2Cprompt-engineering)](https://roadmap.sh)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=3m-abro&icon=0&color=0)](https://visitcount.itsvg.in)
