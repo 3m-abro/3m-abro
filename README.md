@@ -15,5 +15,8 @@ I am a passionate and experienced Senior Software Engineer with over 9 years of 
 # 📊 Roadmap Stats:
 [![roadmap.sh](https://roadmap.sh/card/tall/66ef96cde80161c4cb02d1e7?variant=dark&roadmaps=full-stack%2Cai-data-scientist%2Cdevops%2Cprompt-engineering)](https://roadmap.sh)
 
+# 🌐 Daily.dev
+<a href="https://app.daily.dev/3mabro"><img src="https://api.daily.dev/devcards/v2/0sDPBWMwxJetem3tUkla0.png?r=zhy&type=default" width="356" alt="Maqsood Muhammad Mujtaba Abro's Dev Card"/></a>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=3m-abro&icon=0&color=0)](https://visitcount.itsvg.in)
