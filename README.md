@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a passionate and experienced Senior Software Engineer with over 9 years of expertise in software development, specializing in back-end development, API integration, DevOps, and cloud platforms. I have a proven track record of delivering high-quality software solutions and optimizing application performance. My technical skills span across PHP, Java, JavaScript, Laravel, Lumen, Liferay, and CI/CD
+I am a passionate and experienced Senior Software Engineer with over 10 years of expertise in software development, specializing in back-end development, API integration, DevOps, and cloud platforms. I have a proven track record of delivering high-quality software solutions and optimizing application performance. My technical skills span across PHP, Java, JavaScript, Laravel, Lumen, Liferay, and CI/CD
 
 
 ## 🌐 Socials:
